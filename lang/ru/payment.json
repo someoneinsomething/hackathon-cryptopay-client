@@ -1,0 +1,30 @@
+{
+  "ACCOUNT_BALANCE": {
+    "TITLE": "Your balance",
+    "TOTAL_BALANCE": "Total: {{totalBalance}}$",
+    "BITCOIN_BALANCE": "Bitcoin: {{bitcoinBalance}} btc"
+  },
+  "ACCOUNT_ADDRESS": {
+    "BITCOIN": {
+      "TITLE": "Bitcoin address for payment",
+      "CREATE_INFO": "You have not yet created your personal account for balance payment",
+      "CREATE_BUTTON": "Create address",
+      "HELPER_TEXT": "This is your personal Bitcoin address to fund your account. The balance is automatically updated after receiving one confirmation on the Bitcoin network.",
+      "ADDRESS_COPIED": "Address copied"
+    }
+  },
+  "TRANSACTION_HISTORY": {
+    "EMPTY_LIST": "The list is empty. Create a transaction and it will appear here",
+    "TITLE": {
+      "TRANSACTION": "Latest transactions",
+      "CONFIRM": "Confirmation",
+      "AMOUNT": "Amount (bts)",
+      "CREATED_AT": "Creation date"
+    },
+    "DATA": {
+      "AMOUNT": "{{amount}}",
+      "CONFIRMED": "Confirmed",
+      "CONFIRM_PENDING": "Expected"
+    }
+  }
+}

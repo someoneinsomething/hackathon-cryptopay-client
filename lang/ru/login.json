@@ -1,0 +1,13 @@
+{
+  "FORM": {
+    "TITLE": "Authorization",
+    "LOGIN": "Login",
+    "PASSWORD": "Password",
+    "CAPTCHA": "Captcha",
+    "BUTTON_SUBMIT": "Sign in"
+  },
+  "LINK": {
+    "SIGNUP": "Create an account",
+    "FORGOT_PASSWORD": "Forgot password"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "REQUIRED": "Please fill in this field",
+  "LOGIN": "The field must consist of 3-16 latin letters, numbers, \n_",
+  "PASSWORD": "Password must be at least 6 characters",
+  "PASSWORD_REPEAT": "Passwords mismatch",
+  "EMAIL_REPEAT": "Mails mismatch",
+  "BOOLEAN": "You must confirm this field",
+  "NICKNAME": "The field must consist of 3-16 latin letters, numbers, \n_",
+  "EMAIL": "Invalid mail",
+  "MIN_LENGTH": "Minimum length is {{min}}",
+  "MAX_LENGTH": "Maximum length is {{max}}",
+  "SHOP_NAME": "The field must consist of 6-16 latin letters, numbers, it must not contain prohibited characters and spaces",
+  "NUMBER": "The field must be a number"
+}

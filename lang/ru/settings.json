@@ -1,0 +1,58 @@
+{
+  "UPDATE_EMAIL": {
+    "FORM": {
+      "TITLE": "Mail settings",
+      "EMAIL": "Mail",
+      "BUTTON_SUBMIT": "Change mail",
+      "ALERT_SUCCESS": "Mail has been successfully changed"
+    }
+  },
+  "UPDATE_PASSWORD": {
+    "FORM": {
+      "TITLE": "Password settings",
+      "PASSWORD": "New password",
+      "REPEAT_PASSWORD": "Repeat new password",
+      "BUTTON_SUBMIT": "Change password",
+      "ALERT_SUCCESS": "Password has been successfully changed"
+    }
+  },
+  "UPDATE_PGP": {
+    "FORM": {
+      "TITLE": "PGP protection system",
+      "HELPER_TEXT": "Add a public PGP key to protect your account. When restoring your account, you will need to decrypt the recovery code using a private PGP key.",
+      "PGP": "PGP key",
+      "BUTTON_SUBMIT": "Set PGP key",
+      "ALERT_SUCCESS": "PGP key has been successfully changed",
+      "HELPER_TEXT_DISABLED": "To change the PGP key, contact the site support"
+    }
+  },
+  "ACCOUNT_INFO": {
+    "TITLE": "Account info",
+    "LOGIN": "Login",
+    "NICKNAME": "Nickname",
+    "EMAIL": "Mail",
+    "EMAIL_PLACEHOLDER": "Mail is not specified",
+    "ID": "ID"
+  },
+  "LANGUAGE": {
+    "FORM": {
+      "TITLE": "Localization language",
+      "LANG": "Language",
+      "LANG_RU": "Русский",
+      "LANG_EN": "English",
+      "ALERT_SUCCESS": "Language has been successfully changed",
+      "BUTTON_SUBMIT": "Change language"
+    }
+  },
+  "CURRENCY": {
+    "FORM": {
+      "TITLE": "Main currency selection",
+      "CURRENCY": "Currency",
+      "DOLLAR": "Dollar",
+      "RUBLE": "Ruble",
+      "BITCOIN": "Bitcoin",
+      "ALERT_SUCCESS": "Main currency has been successfully changed",
+      "BUTTON_SUBMIT": "Change currency"
+    }
+  }
+}

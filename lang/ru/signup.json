@@ -1,0 +1,17 @@
+{
+  "FORM": {
+    "TITLE": "Sign up",
+    "LOGIN": "Login",
+    "NICKNAME": "Nickname",
+    "PASSWORD": "Password",
+    "PASSWORD_REPEAT": "Repeat password",
+    "BUTTON_SUBMIT": "Sign up",
+    "PRIVACY": "I agree with",
+    "CAPTCHA": "Captcha"
+  },
+  "LINK": {
+    "LOGIN": "Sign in",
+    "FORGOT_PASSWORD": "Forgot password",
+    "PRIVACY": "privacy"
+  }
+}

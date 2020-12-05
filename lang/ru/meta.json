@@ -1,0 +1,47 @@
+{
+  "DEFAULT": {
+    "TITLE": "Website",
+    "DESCRIPTION": "website",
+    "KEYWORDS": ""
+  },
+  "HOME": {
+    "TITLE": "Home page",
+    "DESCRIPTION": "Home page",
+    "KEYWORDS": ""
+  },
+  "LOGIN": {
+    "TITLE": "Authorization",
+    "DESCRIPTION": "Sign in to your account",
+    "KEYWORDS": ""
+  },
+  "LOGOUT": {
+    "TITLE": "Sign out",
+    "DESCRIPTION": "Sign out of account",
+    "KEYWORDS": ""
+  },
+  "SIGNUP": {
+    "TITLE": "Sign up",
+    "DESCRIPTION": "Account registration",
+    "KEYWORDS": ""
+  },
+  "SETTINGS": {
+    "TITLE": "Settings",
+    "DESCRIPTION": "Account settings"
+  },
+  "ERROR": {
+    "TITLE": "Oops... Error!",
+    "DESCRIPTION": "Error"
+  },
+  "NOT_FOUND": {
+    "TITLE": "Page not found",
+    "DESCRIPTION": "Page not found"
+  },
+  "ACCESS_DENIED": {
+    "TITLE": "Access is denied",
+    "DESCRIPTION": "Access to this page denied"
+  },
+  "PRODUCT_INFO": {
+    "TITLE": "Product",
+    "DESCRIPTION": "Product information"
+  }
+}

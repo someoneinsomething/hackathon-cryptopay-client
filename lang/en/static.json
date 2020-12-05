@@ -1,0 +1,30 @@
+{
+  "USER_ROLE_TYPE": {
+    "2": "Support",
+    "1": "User",
+    "0": "Blocked"
+  },
+  "SHOP_MEMBER_ROLE_TYPE": {
+    "1": "Owner",
+    "2": "Operator"
+  },
+  "ARBITRAGE_STATUS": {
+    "1": "Active",
+    "2": "Closed",
+    "3": "Solved"
+  },
+  "CURRENCY": {
+    "USD": "USD",
+    "RUB": "RUB",
+    "BTC": "BTC"
+  },
+  "CURRENCY_SIGN": {
+    "USD": "$",
+    "RUB": "₽",
+    "BTC": "BTC"
+  },
+  "LANG": {
+    "RU": "Русский",
+    "EN": "English"
+  }
+}

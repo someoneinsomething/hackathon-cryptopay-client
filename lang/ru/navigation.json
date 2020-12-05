@@ -1,0 +1,28 @@
+{
+  "PATH": {
+    "LOGIN": "Sign in",
+    "SIGNUP": "Sign up",
+    "HOME": "Home",
+    "SETTINGS": "Settings",
+    "RECOVERY_ACCOUNT_RESET": "Recovery",
+    "PAYMENT": "Payment",
+    "CATALOG": "Catalog",
+    "REVIEWS": "Reviews",
+    "RULES": "Rules",
+    "DEALS": "Deals",
+    "ACCOUNT_SHOP_LIST": "My shops",
+    "SHOP_MEMBER_SETTINGS": "Settings",
+    "ACCOUNT_SHOP_SALES": "Sales",
+    "ACCOUNT_SHOP_PRODUCTS": "Products",
+    "ACCOUNT_SHOP_REVIEWS": "Reviews",
+    "ACCOUNT_CHAT": "Chats",
+    "ACCOUNT_SHOP_SETTINGS_BASE": "Settings",
+    "ACCOUNT_PURCHASE_LIST": "My purchases",
+    "ACCOUNT_ARBITRAGE_LIST": "Arbitrations",
+    "ACCOUNT_SHOP_PRODUCT_ITEM_LIST": "Product items",
+    "ACCOUNT_SHOP_PRODUCT_SETTINGS": "Product settings",
+    "ACCOUNT_SHOP_PRODUCT_REVIEWS": "Product reviews",
+    "ACCOUNT_SHOP_PRODUCT_DESIGN": "Product design"
+  },
+  "BALANCE": "{{balance}}$"
+}
